@@ -1,6 +1,6 @@
 title: Sulime Text 2在Ubuntu上的安装和配置（一）
 date: 2015-12-24 01:40:29
-tags:
+tags: sublime ubuntu
 ---
 ### 前言
 工欲善其事，必先利其器。
